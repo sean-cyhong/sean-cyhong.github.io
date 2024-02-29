@@ -35,6 +35,14 @@ layout: default
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
+        <!-- Social -->
+          {%- if page.social %}
+            <div class="social">
+              <div class="contact-icons">
+                {% include social.liquid %}
+              </div>
+            </div>
+          {%- endif %} 
       </div>
     {% endif %}
 
@@ -43,7 +51,7 @@ layout: default
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
@@ -59,18 +67,18 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+        Selected Publications (<a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Full list</a>)<br /><font size="3">(:sparkles:The preview images are <b>zoomable</b>.)</font><br>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
 
-    <!-- Social -->
-    {% if page.social %}
+    <!-- Services -->
+    {% if page.services and site.announcements.enabled -%}
+        <h2><a href="{{ '/services/' | relative_url }}" style="color: inherit;">Academic Services</a></h2>
+        {%- include services.liquid limit=true %}
+    {%- endif %}
       <div class="social">
-        <div class="contact-icons">{% include social.liquid %}</div>
-
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
-    {% endif %}
   </article>
 </div>

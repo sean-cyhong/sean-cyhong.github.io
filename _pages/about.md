@@ -22,9 +22,9 @@ I am a research assistant in the [Computer Vision & Machine Learning Lab](https:
 My research primarily focuses on three areas: [1] unsupervised representation learning, free from human annotations. [2] enhancing traditional computer vision problems through the application of diffusion/consistency models. [3] advancing the efficiency of Large Multimodal Models (LMMs). Overall, my work lies at the nexus of of computer vision and energy-efficient computing, particularly emphasizing unsupervised (self-supervised) representation learning and the development of compact yet effective machine learning models for computer vision applications. Looking ahead, my research aims to address three interrelated questions:
 
 <ol>
-How can we learn representations from large, unlabeled natural datasets to construct comprehensive world models or simulators?
-How can diffusion/consistency mechanisms improve existing computer vision solutions?
-How can we enhance the efficiency of Large Multimodal Models for IoT devices through algorithmic and hardware structural co-optimization?
+<li>How can we learn representations from large, unlabeled natural datasets to construct comprehensive world models or simulators?</li>
+<li>How can diffusion/consistency mechanisms improve existing computer vision solutions?</li>
+<li>How can we enhance the efficiency of Large Multimodal Models for IoT devices through algorithmic and hardware structural co-optimization?</li>
 </ol>
 
 Aside from my research, I have a keen interest in exploring innovative vision applications that incorporate various modalities, including point clouds and audio.

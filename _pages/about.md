@@ -29,7 +29,7 @@ Overall, my work lies at the nexus of of <b>computer vision</b> and <b>energy-ef
 <li>How can we optimize the synergy between algorithms and hardware structures to boost the efficiency of Large Multimodal Models in IoT contexts?</li>
 </ol>
 
-Aside from my research, I have a keen interest in exploring innovative vision applications that incorporate various modalities, including point clouds and audio.
+Apart from my research, I am passionate about exploring innovative applications in computer vision that incorporate diverse modalities, including point clouds, text and audio.
 
 <img src="{{ '/assets/img/NCTU.png' | relative_url }}"   width="100" style="vertical-align: middle;border-radius:50%;">
 <img src="{{ '/assets/img/NTU.jpg' | relative_url }}"  width="100" style="vertical-align: middle;border-radius:50%;">

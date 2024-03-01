@@ -21,12 +21,12 @@ I am a research assistant in the [Computer Vision & Machine Learning Lab](https:
 
 My research has primarily focused on [1] representation learning without supervision by human annotations. [2] tackling existing computer vision problems via leveraging diffusion/consistency models. [3] efficient Large Multimodal Models (LMMs). <br>
 
-Overall, my work lies at the nexus of of <b>computer vision</b> and <b>energy-efficient tiny-ML models</b>, particularly emphasizing unsupervised (self-supervised) representation learning and the development of compact yet effective machine learning models for computer vision applications. Looking ahead, my research aims to address three interrelated questions:
+Overall, my work lies at the nexus of of <b>computer vision</b> and <b>energy-efficient tiny-ML models</b>, particularly emphasizing unsupervised (self-supervised) representation learning and the development of compact yet effective machine learning models for computer vision applications. In the future, I aspire to address three fundamental questions that stand at the core of my research interests:
 
 <ol>
-<li>Can we learn representations from abundant, unlabeled natural datasets to construct comprehensive world models or simulators?</li>
-<li>Can we utlize the diffusion/consistency mechanism to boost the existing computer vision solution?</li>
-<li>Can we leverage algorithm and hardware structure co-optimization to enhance the efficiency of Large Multimodal Models for IoT devices?</li>
+<li>How can we harness the vast array of unlabeled natural data to construct an accurate world simulator or model?</li>
+<li>In what ways can the diffusion and consistency mechanisms refine existing computer vision solutions?</li>
+<li>How can we optimize the synergy between algorithms and hardware structures to boost the efficiency of Large Multimodal Models in IoT contexts?</li>
 </ol>
 
 Aside from my research, I have a keen interest in exploring innovative vision applications that incorporate various modalities, including point clouds and audio.

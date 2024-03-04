@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Cheng-Yao
 middle_name: (Sean)
 last_name: Hong
-email: sensible[at] iis [dot] sinica [dot] edu [dot] com [dot] tw
+email: sensible [at] iis [dot] sinica [dot] edu [dot] tw
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -74,7 +74,7 @@ mastodon_username: # your mastodon instance+username in the format instance.tld/
 linkedin_username: cheng-yao-hong # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: XVJf16kAAAAJ # your Google Scholar ID
-semanticscholar_id: 1388735506# your Semantic Scholar ID
+semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
 medium_username: # your Medium username

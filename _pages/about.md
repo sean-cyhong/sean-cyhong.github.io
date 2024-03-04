@@ -21,7 +21,7 @@ I am a research assistant in the [Computer Vision & Machine Learning Lab](https:
 
 My research has primarily focused on [1] representation learning without supervision by human annotations. [2] tackling existing computer vision problems via leveraging diffusion/consistency models. [3] efficient Large Multimodal Models (LMMs). <br>
 
-Overall, my work lies at the nexus of of <b>computer vision</b> and <b>energy-efficient tiny-ML models</b>, particularly emphasizing unsupervised (self-supervised) representation learning and the development of compact yet effective machine learning models for computer vision applications. In the future, I aspire to address three fundamental questions that stand at the core of my research interests:
+Overall, my work lies at the nexus of of <b>computer vision</b> and <b>energy-efficient tiny-ML models</b>, particularly emphasizing unsupervised (self-supervised) representation learning and the development of compact yet effective machine learning models for computer vision applications. Looking ahead, I aspire to address three fundamental questions that stand at the core of my research interests:
 
 <ol>
 <li>How can we harness the vast array of unlabeled natural data to construct an accurate world simulator or model?</li>

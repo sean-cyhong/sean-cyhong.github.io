@@ -17,19 +17,17 @@ services: true
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a research assistant in the [CVML Lab](https://homepage.iis.sinica.edu.tw/~liutyng/) at the [IIS](https://www.iis.sinica.edu.tw/en/index.html), Academia Sinica, under the mentorship of Prof. [Tyng-Luh Liu](https://homepage.iis.sinica.edu.tw/pages/liutyng/index_en.html). Prior to joining IIS, I completed the Master's degree in [Integrated Circuits & Systems group (ICS)](https://giee.ntu.edu.tw/en/ics_lecture.php) from the [Graduate Institute of Electronics Engineering](https://giee.ntu.edu.tw/en/) at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/). This followed my undergraduate studies at [National Chiao Tung University (NCTU)](https://en.wikipedia.org/wiki/National_Chiao_Tung_University).
+I am a Research Assistant in the [CVML Lab](https://homepage.iis.sinica.edu.tw/~liutyng/) at [IIS, Academia Sinica](https://www.iis.sinica.edu.tw/en/index.html), advised by Prof. [Tyng-Luh Liu](https://homepage.iis.sinica.edu.tw/pages/liutyng/index_en.html). I received my M.S. degree from the [Graduate Institute of Electronics Engineering](https://giee.ntu.edu.tw/en/) at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), where I specialized in Integrated Circuits & Systems (ICS).<br><br>
 
-My research has primarily focused on [1] representation learning without supervision by human annotations. [2] tackling existing computer vision problems via leveraging diffusion/consistency models. [3] efficient Large Multimodal Models (LMMs). <br>
+My research interests lie at the intersection of <b>Generative Vision</b>, <b>Embodied AI</b>, and <b>Efficient Multimodal Computing</b>. My goal is to bridge the gap between high-level generative capabilities and real-world physical interaction. Currently, my research focuses on:
+<ul>
+  <li><b>Generative Priors for 3D:</b> Leveraging latent diffusion models for open-vocabulary 3D localization and scene understanding.</li>
+  <li><b>Embodied AI & Robotics:</b> Developing high-speed robotic manipulation frameworks by integrating <b>Event Cameras</b> with dynamic control to enable precise tracking in highly dynamic environments.</li>
+  <li><b>Efficient Foundation Models:</b> Optimizing inference throughput for diffusion and multimodal models via hardware-aware strategies (e.g., Token Merging).</li>
+</ul>
+<br>
 
-Overall, my work lies at the nexus of <b>computer vision</b> and <b>energy-efficient tiny-ML models</b>, particularly emphasizing unsupervised (self-supervised) representation learning and the development of compact yet effective machine learning models for computer vision applications. Looking ahead, I aspire to address three fundamental questions that stand at the core of my research interests:
-
-<ol>
-<li>How can we harness the vast array of unlabeled natural data to construct an accurate world simulator or model?</li>
-<li>In what ways can the diffusion and consistency mechanisms refine existing computer vision solutions?</li>
-<li>How can we optimize the synergy between algorithms and hardware structures to boost the efficiency of Large Multimodal Models in IoT contexts?</li>
-</ol>
-
-Beyond my academic pursuits, I am enthusiastic about delving into cutting-edge applications within computer vision that blend a variety of modalities, such as point clouds, text, audio, and sensory data.
+Previously, I worked on self-supervised representation learning and long-tailed recognition. I aspire to build accurate, efficient, and interactive world models that can operate in the physical world.
 
 <img src="{{ '/assets/img/NCTU.png' | relative_url }}"   width="100" style="vertical-align: middle;border-radius:50%;">
 <img src="{{ '/assets/img/NTU.jpg' | relative_url }}"  width="100" style="vertical-align: middle;border-radius:50%;">

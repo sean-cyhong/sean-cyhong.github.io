@@ -17,8 +17,7 @@ services: true
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Research Assistant in the [CVML Lab](https://homepage.iis.sinica.edu.tw/~liutyng/) at [IIS, Academia Sinica](https://www.iis.sinica.edu.tw/en/index.html), advised by Prof. [Tyng-Luh Liu](https://homepage.iis.sinica.edu.tw/pages/liutyng/index_en.html). I received my M.S. degree from the [Graduate Institute of Electronics Engineering](https://giee.ntu.edu.tw/en/) at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), where I specialized in Integrated Circuits & Systems (ICS).<br><br>
-
+I am a Research Assistant in the [CVML Lab](https://homepage.iis.sinica.edu.tw/~liutyng/) at [IIS, Academia Sinica](https://www.iis.sinica.edu.tw/en/index.html), advised by Prof. [Tyng-Luh Liu](https://homepage.iis.sinica.edu.tw/pages/liutyng/index_en.html). I received my M.S. degree from the [Graduate Institute of Electronics Engineering](https://giee.ntu.edu.tw/en/) at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), where I specialized in Integrated Circuits & Systems (ICS). This followed my undergraduate studies in Electronics Engineering at [National Chiao Tung University](https://en.wikipedia.org/wiki/National_Chiao_Tung_University).<br><br>
 My research interests lie at the intersection of <b>Generative Vision</b>, <b>Embodied AI</b>, and <b>Efficient Multimodal Computing</b>. My goal is to bridge the gap between high-level generative capabilities and real-world physical interaction. Currently, my research focuses on:
 <ul>
   <li><b>Generative Priors for 3D:</b> Leveraging latent diffusion models for open-vocabulary 3D localization and scene understanding.</li>

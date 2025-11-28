@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-02-27 10:00:00-0400
+date: 2024-12-09 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-One paper is accepted by CVPR 2024! :sparkles: &#x1F389
+One paper is accepted by AAAI 2025! :sparkles: &#x1F389

@@ -48,5 +48,16 @@ jobs:
         uses: lycheeverse/lychee-action@v1.9.0
         with:
           fail: true
-          # removed md files that include liquid tags
-          args: --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --verbose --no-progress './**/*.md' './**/*.html'
+          # Ignore raw Liquid-generated URLs and an unused template project with an external redirect.
+          args: >-
+            --exclude-path README.md
+            --exclude-path _pages/404.md
+            --exclude-path _pages/blog.md
+            --exclude-path _posts/2018-12-22-distill.md
+            --exclude-path _posts/2021-07-04-diagrams.md
+            --exclude-path _posts/2024-01-27-advanced-images.md
+            --exclude-path _posts/2024-01-27-vega-lite.md
+            --exclude-path _projects/3_project.md
+            --exclude '.*%7B%7B.*relative_url.*%7D%7D.*'
+            --verbose --no-progress
+            './**/*.md' './**/*.html'

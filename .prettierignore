@@ -2,5 +2,11 @@
 **/*.min.js
 assets/css/main.scss
 assets/plotly/demo.html
+# Generated and vendored syntax-highlighting/Jupyter theme output
+assets/css/jekyll-pygments-themes-github.css
+assets/css/jekyll-pygments-themes-native.css
+assets/css/jupyter-grade3.css
+assets/css/jupyter-monokai.css
+assets/css/jupyter.css
 lighthouse_results/**
 _posts/2015-10-20-math.md

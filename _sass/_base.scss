@@ -709,9 +709,11 @@ footer.sticky-bottom {
 
         figure,
         picture {
-          display: block;
+          align-items: center;
+          display: flex;
           height: 100%;
           inset: 0;
+          justify-content: center;
           margin: 0;
           position: absolute;
           width: 100%;
@@ -719,12 +721,13 @@ footer.sticky-bottom {
 
         .publication-preview-image:not(.medium-zoom-image--opened) {
           display: block;
-          height: 100%;
-          max-width: none;
+          height: auto;
+          max-height: 100%;
+          max-width: 100%;
           min-width: 0;
           object-fit: contain;
           object-position: center;
-          width: 100%;
+          width: auto;
         }
       }
 

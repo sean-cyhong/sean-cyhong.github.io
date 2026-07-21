@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper “Test-Time Registers as Global Priors for Tokenized Image Generation” was accepted to ECCV 2026.
+One paper was accepted to ECCV 2026!

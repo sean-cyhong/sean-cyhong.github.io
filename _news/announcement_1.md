@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted by NeurIPS 2025! 
+One paper was accepted to NeurIPS 2025!

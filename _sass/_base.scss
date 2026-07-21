@@ -698,6 +698,31 @@ footer.sticky-bottom {
         max-width: 200px;
       }
 
+      .publication-preview {
+        align-items: center;
+        aspect-ratio: 8 / 5;
+        display: flex;
+        justify-content: center;
+        width: 100%;
+
+        figure,
+        picture {
+          align-items: center;
+          display: flex;
+          height: 100%;
+          justify-content: center;
+          margin: 0;
+          width: 100%;
+        }
+
+        .publication-preview-image:not(.medium-zoom-image--opened) {
+          height: 100%;
+          max-width: 100%;
+          object-fit: contain;
+          width: 100%;
+        }
+      }
+
       .abbr {
         height: 2rem;
         margin-bottom: 0.5rem;

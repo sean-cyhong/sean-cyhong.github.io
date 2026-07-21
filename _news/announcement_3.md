@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted by CVPR 2024! :sparkles: &#x1F389
+One paper was accepted to CVPR 2024! :sparkles: &#x1F389

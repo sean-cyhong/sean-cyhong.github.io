@@ -33,4 +33,3 @@ My research focuses on building efficient multimodal and generative models that 
 <img src="{{ '/assets/img/NTU.jpg' | relative_url }}"  width="100" style="vertical-align: middle;border-radius:50%;">
 <img src="{{ '/assets/img/A.png' | relative_url }}"   width="100" style="vertical-align: middle;border-radius:50%;">
 <img src="{{ '/assets/img/IIS.jpg' | relative_url }}"   width="100" style="vertical-align: middle;border-radius:50%;">
-

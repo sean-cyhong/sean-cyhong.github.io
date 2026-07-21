@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Assistant <br> <a href='https://www.iis.sinica.edu.tw/en/index.html'>Institute of Information Science Academia Sinica</a>, <a href='https://homepage.iis.sinica.edu.tw/~liutyng/'>Computer Vision & Machine Learning Lab</a>.
+subtitle: First-year Ph.D. Student <br> <a href='https://www.cs.stonybrook.edu/'>Computer Science</a>, <a href='https://www.stonybrook.edu/'>Stony Brook University</a>
 
 profile:
   align: right
@@ -17,16 +17,9 @@ services: true
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Research Assistant in the [CVML Lab](https://homepage.iis.sinica.edu.tw/~liutyng/) at [IIS, Academia Sinica](https://www.iis.sinica.edu.tw/en/index.html), advised by Prof. [Tyng-Luh Liu](https://homepage.iis.sinica.edu.tw/pages/liutyng/index_en.html). I received my M.S. degree from the [Graduate Institute of Electronics Engineering](https://giee.ntu.edu.tw/en/) at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), where I specialized in Integrated Circuits & Systems (ICS). This followed my undergraduate studies in Electronics Engineering at [National Chiao Tung University](https://en.wikipedia.org/wiki/National_Chiao_Tung_University).<br><br>
-My research interests lie at the intersection of <b>Generative Vision</b>, <b>Embodied AI</b>, and <b>Efficient Multimodal Computing</b>. My goal is to bridge the gap between high-level generative capabilities and real-world physical interaction. Currently, my research focuses on:
-<ul>
-  <li><b>Generative Priors for 3D:</b> Leveraging latent diffusion models for open-vocabulary 3D localization and scene understanding.</li>
-  <li><b>Embodied AI & Robotics:</b> Developing high-speed robotic manipulation frameworks by integrating <b>Event Cameras</b> with dynamic control to enable precise tracking in highly dynamic environments.</li>
-  <li><b>Efficient Foundation Models:</b> Optimizing inference throughput for diffusion and multimodal models via hardware-aware strategies (e.g., Token Merging).</li>
-</ul>
-<br>
+I am a first-year Ph.D. student in [Computer Science](https://www.cs.stonybrook.edu/) at [Stony Brook University](https://www.stonybrook.edu/), advised by Prof. [Chenyu You](https://chenyuyou.me/). My research broadly lies in computer vision, multimodal learning, and generative models. I am particularly interested in efficient visual representation learning, world models, embodied AI, and event-based vision.
 
-Previously, I worked on self-supervised representation learning and long-tailed recognition. I aspire to build accurate, efficient, and interactive world models that can operate in the physical world.
+Before joining [Stony Brook University](https://www.stonybrook.edu/), I worked as a Research Assistant at the [Institute of Information Science, Academia Sinica](https://www.iis.sinica.edu.tw/en/index.html), advised by Prof. [Tyng-Luh Liu](https://homepage.iis.sinica.edu.tw/pages/liutyng/index_en.html). I have also worked with Prof. [Hwann-Tzong Chen](https://htchen.github.io/) and Prof. [Ming-Sui (Amy) Lee](https://www.csie.ntu.edu.tw/~mslee/). I received my M.S. degree from [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/) and my B.S. degree from [National Chiao Tung University](https://en.wikipedia.org/wiki/National_Chiao_Tung_University).
 
 <img src="{{ '/assets/img/NCTU.png' | relative_url }}"   width="100" style="vertical-align: middle;border-radius:50%;">
 <img src="{{ '/assets/img/NTU.jpg' | relative_url }}"  width="100" style="vertical-align: middle;border-radius:50%;">

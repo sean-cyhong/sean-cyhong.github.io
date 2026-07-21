@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted by AAAI 2025! :sparkles: &#x1F389
+One paper was accepted to AAAI 2025! :sparkles: &#x1F389

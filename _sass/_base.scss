@@ -1132,6 +1132,11 @@ nav[data-toggle="toc"] {
   z-index: 999;
 }
 
+.publication-preview-image.medium-zoom-image--opened {
+  object-fit: contain;
+  object-position: center;
+}
+
 #toc-sidebar {
   z-index: 1;
 }

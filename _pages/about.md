@@ -21,7 +21,7 @@ I am a first-year Ph.D. student in [Computer Science](https://www.cs.stonybrook.
 
 Before joining [Stony Brook University](https://www.stonybrook.edu/), I worked as a Research Assistant at the [Institute of Information Science (IIS)](https://www.iis.sinica.edu.tw/en/index.html), [Academia Sinica](https://www.sinica.edu.tw/en), advised by Prof. [Tyng-Luh Liu](https://homepage.iis.sinica.edu.tw/pages/liutyng/index_en.html). I have also worked with Prof. [Hwann-Tzong Chen](https://htchen.github.io/) and Prof. [Ming-Sui Lee](https://www.csie.ntu.edu.tw/~mslee/).
 
-I received my M.S. degree from the [Graduate Institute of Electronics Engineering (GIEE)](https://giee.ntu.edu.tw/en/), [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), where I was a member of the [Information and Communication Systems (ICS) Group](https://giee.ntu.edu.tw/en/ics_lecture.php). I received my B.S. degree from the Department of Electronics Engineering at [National Chiao Tung University (NCTU)](https://en.wikipedia.org/wiki/National_Chiao_Tung_University).
+I received my M.S. degree from the [Graduate Institute of Electronics Engineering (GIEE)](https://giee.ntu.edu.tw/en/), [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), where I was a member of the [Integrated Circuits & Systems (ICS) Group](https://giee.ntu.edu.tw/en/ics_lecture.php). I received my B.S. degree from the Department of Electronics Engineering at [National Chiao Tung University (NCTU)](https://en.wikipedia.org/wiki/National_Chiao_Tung_University).
 
 ## Research Interests
 

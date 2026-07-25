@@ -698,6 +698,22 @@ footer.sticky-bottom {
         align-items: flex-start;
       }
 
+      @media (min-width: 576px) {
+        > .row {
+          min-block-size: 7.75rem;
+        }
+
+        .publication-details {
+          align-self: stretch;
+          display: flex;
+          flex-direction: column;
+
+          > .links {
+            margin-top: auto;
+          }
+        }
+      }
+
       .preview {
         width: 100%;
         min-width: 80px;

@@ -698,22 +698,6 @@ footer.sticky-bottom {
         align-items: flex-start;
       }
 
-      @media (min-width: 576px) {
-        > .row {
-          min-block-size: 7.75rem;
-        }
-
-        .publication-details {
-          align-self: stretch;
-          display: flex;
-          flex-direction: column;
-
-          > .links {
-            margin-top: auto;
-          }
-        }
-      }
-
       .preview {
         width: 100%;
         min-width: 80px;
@@ -1162,6 +1146,12 @@ nav[data-toggle="toc"] {
     margin-bottom: 0;
     padding-top: 0.5rem;
   }
+}
+
+.medium-zoom-active .publications .publication-media--with-preview > .abbr {
+  opacity: 0;
+  pointer-events: none;
+  visibility: hidden;
 }
 
 .unloaded {

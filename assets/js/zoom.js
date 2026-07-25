@@ -7,6 +7,13 @@ $(document).ready(function () {
     margin: getMediumZoomMargin(),
   });
 
+  const setMediumZoomActive = () => document.body.classList.add("medium-zoom-active");
+  const clearMediumZoomActive = () => document.body.classList.remove("medium-zoom-active");
+
+  medium_zoom.on("open", setMediumZoomActive);
+  medium_zoom.on("closed", clearMediumZoomActive);
+  medium_zoom.on("detach", clearMediumZoomActive);
+
   $(window).on("resize", function () {
     medium_zoom.update({ margin: getMediumZoomMargin() });
   });

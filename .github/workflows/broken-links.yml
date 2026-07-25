@@ -55,6 +55,7 @@ jobs:
             --exclude-path _pages/blog.md
             --exclude-path _posts/2018-12-22-distill.md
             --exclude-path _posts/2021-07-04-diagrams.md
+            --exclude-path _posts/2023-07-04-jupyter-notebook.md
             --exclude-path _posts/2024-01-27-advanced-images.md
             --exclude-path _posts/2024-01-27-vega-lite.md
             --exclude-path _projects/3_project.md

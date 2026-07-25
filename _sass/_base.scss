@@ -679,8 +679,8 @@ footer.sticky-bottom {
     color: var(--global-divider-color);
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
-    margin-top: 2rem;
-    margin-bottom: -2rem;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
     text-align: right;
   }
 
@@ -688,14 +688,34 @@ footer.sticky-bottom {
     list-style: none;
     padding: 0;
     margin-top: 0;
+    margin-bottom: 0;
 
     li {
-      margin-bottom: 1rem;
+      margin-bottom: 0;
+      padding-block: 0.75rem;
+
+      > .row {
+        align-items: flex-start;
+      }
 
       .preview {
         width: 100%;
         min-width: 80px;
         max-width: 200px;
+      }
+
+      .publication-media {
+        align-self: flex-start;
+        position: relative;
+      }
+
+      .publication-media--with-preview > .abbr {
+        height: auto;
+        left: 0.25rem;
+        margin: 0;
+        position: absolute;
+        top: -0.375rem;
+        z-index: 2;
       }
 
       .publication-preview {

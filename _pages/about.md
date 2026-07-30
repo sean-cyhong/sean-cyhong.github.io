@@ -8,8 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p class="post-meta"><strong>Fun fact:</strong> After I graduated, NCTU became part of NYCU, and my former department became part of the Department of Electronics and Electrical Engineering. 😅</p>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -23,6 +21,8 @@ I am a first-year Ph.D. student in [Computer Science](https://www.cs.stonybrook.
 Before joining Stony Brook University, I worked as a Research Assistant at the [Institute of Information Science (IIS)](https://www.iis.sinica.edu.tw/en/index.html), [Academia Sinica](https://www.sinica.edu.tw/en), advised by Prof. [Tyng-Luh Liu](https://homepage.iis.sinica.edu.tw/pages/liutyng/index_en.html). I have also worked with Prof. [Hwann-Tzong Chen](https://htchen.github.io/) and Prof. [Ming-Sui Lee](https://www.csie.ntu.edu.tw/~mslee/).
 
 I received my M.S. degree from the [Graduate Institute of Electronics Engineering (GIEE)](https://giee.ntu.edu.tw/en/home/), [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), where I was a member of the [Integrated Circuits & Systems (ICS) Group](https://giee.ntu.edu.tw/en/ics_lecture.php). I received my B.S. degree from the Department of Electronics Engineering at [National Chiao Tung University (NCTU)](https://en.wikipedia.org/wiki/National_Chiao_Tung_University).
+
+<p class="post-meta"><strong>Fun fact:</strong> My undergraduate university and department were both reorganized after I graduated. 😅</p>
 
 ## Research Interests
 
